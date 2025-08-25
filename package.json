@@ -1,5 +1,5 @@
 {
-  "name": "rsapp-task-template",
+  "name": "f",
   "version": "1.0.0",
   "description": "Template for rsapp task",
   "main": "index.js",
@@ -26,5 +26,6 @@
     "mocha": "^6.2.2",
     "react": "^19.1.1",
     "semver": "^6.3.1"
-  }
+  },
+  "devDependencies": {}
 }
